@@ -12,5 +12,8 @@ Para documentar los retos usaremos la siguiente plantilla
 ## Solución
 
 ## Notas adicionales
+| Comando | Descripción |
+|--------|--------|
+| XXX | YYYYYYYY |
 
 ## Referencias

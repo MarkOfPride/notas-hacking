@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "758ebc555fc14a49",
+        "id": "acdaf8850da3ea8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e2124822ee88c676",
+            "id": "8e45c7c3099cc08c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a447b986c7f529bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos-bandit/Level 0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a447b986c7f529bf",
+  "active": "8e45c7c3099cc08c",
   "lastOpenFiles": [
     "retos-bandit/plantilla.md",
-    "retos-bandit/Level 0.md",
-    "README.md"
+    "retos-bandit/Level 9 al 10.md",
+    "retos-bandit/Level 8 al 9.md",
+    "retos-bandit/Level 7 al 8.md",
+    "retos-bandit/Level 6 al 7.md",
+    "retos-bandit/Level 5 al 6.md",
+    "retos-bandit/Level 4 al 5.md",
+    "retos-bandit/Level 3 al 4.md",
+    "retos-bandit/Level 2 al 3.md",
+    "retos-bandit/Level 1 al 2.md"
   ]
 }

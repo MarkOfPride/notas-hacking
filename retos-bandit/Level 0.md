@@ -1,12 +1,12 @@
 # Level 0
 
 ## Objetivo
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) page to find out how to beat Level 1.
+El objetivo de este nivel es que te conectes al juego usando SSH. El host al que necesitas conectarte es **bandit.labs.overthewire.org**, en el puerto 2220. El nombre de usuario es **bandit0** y la contraseña es **bandit0**. Una vez conectado, ve a la página [Nivel 1](https://overthewire.org/wargames/bandit/bandit1.html) para averiguar cómo superar el Nivel 1.
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit0**
-**bandit0**
+bandit.labs.overthewire.org
+bandit0
+bandit0
 
 ## Solución
 ```bash
@@ -25,7 +25,9 @@ bandit0@bandit.labs.overthewire.org's password:
 ```
 
 ## Notas adicionales
-pwd -> Me indica la carpeta actual.
-ls     -> Lista los archivos.
+| Comando | Descripción |
+|--------|--------|
+| SSH | Nos permite conectarnos a una maquina remota y ejecutar comandos |
 
 ## Referencias
+[SSH](https://en.wikipedia.org/wiki/Secure_Shell)
