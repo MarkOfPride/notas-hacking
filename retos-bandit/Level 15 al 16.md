@@ -1,4 +1,4 @@
-# Level X
+# Bandit Level 15 → Level 16
 
 ## Objetivo
 La contraseña para el siguiente nivel se puede recuperar enviando la contraseña del nivel actual al **puerto 30001 en localhost** utilizando encriptación SSL.
