@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01ea88dae3997806",
+        "id": "e6d2ad05cde4fce3",
         "type": "tabs",
         "children": [
           {
-            "id": "6dabfeb5f0d520b8",
+            "id": "54ad18087bb56e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/2019/01-Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/2019/01-Lets Warm Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "primer-parcial/2019/01-Lets Warm Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "primer-parcial/2019/01-Lets Warm Up.md"
               }
             }
           }
@@ -146,9 +146,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6dabfeb5f0d520b8",
+  "active": "54ad18087bb56e11",
   "lastOpenFiles": [
+    "primer-parcial/2019/Plantilla de retos.md",
+    "primer-parcial/2019/01-Lets Warm Up.md",
+    "primer-parcial/2019/09-plumbing.md",
+    "primer-parcial/2019/08-Based.md",
+    "primer-parcial/2019/07-First Grep.md",
+    "primer-parcial/2019/06-Bases.md",
+    "primer-parcial/2019/05-strings it.md",
+    "primer-parcial/2019/04-what's a net cat.md",
+    "primer-parcial/2019/03-2Warm.md",
+    "primer-parcial/2019/02-Warmed Up.md",
+    "retos-Forensics/06-m00nwalk.md",
+    "retos-Forensics/05-What Lies Within.md",
+    "retos-Forensics/04-extensions.md",
+    "retos-Forensics/03-shark on wire 1.md",
+    "retos-Forensics/02-So Meta.md",
+    "retos-Forensics/01-Glory of the Garden.md",
+    "retos-Forensics/Plantilla de retos.md",
     "retos-webExploitation/Plantilla de retos.md",
+    "retos-Forensics",
+    "README.md",
     "retos-webExploitation/13-Scavenger Hunt.md",
     "retos-webExploitation/11-GET aHEAD.md",
     "retos-webExploitation/12-Cookies.md",
@@ -156,26 +175,8 @@
     "retos-webExploitation/09-Irish-Name-Repo 3.md",
     "retos-webExploitation/08-Irish-Name-Repo 2.md",
     "retos-webExploitation/07-Irish-Name-Repo 1.md",
-    "retos-webExploitation/06-Client-side-again.md",
-    "retos-webExploitation/05-picobrowser.md",
-    "retos-webExploitation/01-Insp3ct0r.md",
-    "retos-webExploitation/02-where are the robots.md",
-    "retos-webExploitation/03-logon.md",
-    "retos-webExploitation/04-dont-use-client-side.md",
     "retos-webExploitation",
-    "primer-parcial/2019/plantilla.md",
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Level 27 al 28.md",
-    "retos-bandit/Level 28 al 29.md",
-    "retos-bandit/Level 29 al 30.md",
-    "retos-bandit/Level 30 al 31.md",
-    "retos-bandit/Level 31 al 32.md",
-    "retos-bandit/Level 32 al 33.md",
-    "retos-bandit/Level 26 al 27.md",
-    "primer-parcial/2019/01-Lets Warm Up.md",
-    "retos-bandit/Level 22 al 23.md",
     "primer-parcial/2019",
-    "primer-parcial",
-    "retos-bandit/Level 21 al 22.md"
+    "primer-parcial"
   ]
 }

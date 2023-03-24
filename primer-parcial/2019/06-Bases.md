@@ -1,7 +1,7 @@
-# Lets Warm Up 
+# Bases
 
 ## Descripción
-Si te dijera que una palabra empieza por 0x70 en hexadecimal, ¿con qué empezaría en ASCII?
+¿Qué significa **bDNhcm5fdGgzX3IwcDM1**? Creo que tiene algo que ver con las bases.
 
 ## Pistas
 - Envíe su respuesta en nuestro formato de bandera. Por ejemplo, si su respuesta es "hola", deberá enviar "picoCTF{hello}" como bandera.
@@ -11,18 +11,18 @@ Si te dijera que una palabra empieza por 0x70 en hexadecimal, ¿con qué empezar
 markofpride-picoctf@webshell:~$ python
 Python 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
->>> chr(0x70)
-'p'
+>>> import base64
+>>> base64.b64decode("bDNhcm5fdGgzX3IwcDM1")
+b'l3arn_th3_r0p35'
 ```
 
 ## Bandera
-picoCTF{p}
+picoCTF{l3arn_th3_r0p35}
 
 ## Notas adicionales
 | Método en python | Descripción |
 |--------|--------|
-| chr() | Esto recibe un número y devuelve su representación como carácter |
+| base64.b64decode() | Decodifica el objeto similar a bytes codificado en Base64 o cadena de caracteres ASCII s y retorna los bytes decodificados |
 
 ## Referencias
-[Funciones ord y chr en Python](https://parzibyte.me/blog/2018/12/10/ord-chr-python/)
-
+[base64](https://docs.python.org/es/3/library/base64.html#module-base64)
