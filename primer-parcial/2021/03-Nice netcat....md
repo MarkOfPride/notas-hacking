@@ -62,6 +62,7 @@ picoCTF{g00d_k1tty_n1c3_k1tty_f2d7cafa}
 | Comando | Descripción |
 |--------|--------|
 | nc | La utilidad nc (o netcat) se utiliza para casi cualquier cosa bajo el sol que implique TCP o UDP |
+
 Los numeros resultantes del comando son el número de los caracteres ASCII de la bandera por lo que se usó la página "Texto - Ascii Converter / Translator" como herramienta para decodificar el mensaje.
 
 ## Referencias
