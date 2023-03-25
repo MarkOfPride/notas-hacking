@@ -31,6 +31,7 @@ picoCTF{beep_boop_im_in_space}
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| sstv | Un descodificador de televisión de barrido lento que funciona con archivos de audio en lugar de leer una tarjeta de sonido (como la mayoría de los descodificadores) |
 
 ## Referencias
+[SSTV Decoder](https://github.com/colaclanth/sstv)

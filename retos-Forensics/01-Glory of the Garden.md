@@ -19,6 +19,9 @@ picoCTF{more_than_m33ts_the_3y3eBdBd2cc}
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| strings -n | Imprime las cadenas de caracteres imprimibles en ficheros, el -n define un mínimo de caracteres |
+| grep | Imprime líneas que coincidan con un patrón |
 
 ## Referencias
+[strings(1) - Linux man page](https://linux.die.net/man/1/strings)
+[grep(1) - Linux man page](https://linux.die.net/man/1/grep)

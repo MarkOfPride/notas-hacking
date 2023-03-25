@@ -14,12 +14,15 @@ Encontramos esta [captura de paquete](https://jupiter.challenges.picoctf.org/sta
 [1] 1618
 ```
 
+Seguimos cualquier UDP stream y nos movemos entre streams hasta encontrar la bandera (stream 6).
+
 ## Bandera
 picoCTF{StaT31355_636f6e6e}
 
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| wireshark | Análisis en profundidad de TCP/IP |
 
 ## Referencias
+[wireshark](https://www.wireshark.org/docs/)

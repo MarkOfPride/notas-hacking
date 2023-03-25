@@ -26,6 +26,7 @@ picoCTF{now_you_know_about_extensions}
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| mv | mover (renombrar) archivos, tambien cambia la extensión de un archivo |
 
 ## Referencias
+[mv(1) - Linux man page](https://linux.die.net/man/1/mv)

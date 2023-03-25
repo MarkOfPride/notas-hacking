@@ -21,6 +21,10 @@ picoCTF{s0_m3ta_eb36bf44}
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| exiftool | Lee y escribe metainformación en archivos |
+| grep | Imprime líneas que coincidan con un patrón |
 
 ## Referencias
+[exiftool(1) - Linux man page](https://linux.die.net/man/1/exiftool)
+[grep(1) - Linux man page](https://linux.die.net/man/1/grep)
+

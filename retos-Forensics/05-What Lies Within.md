@@ -19,6 +19,9 @@ picoCTF{h1d1ng_1n_th3_b1t5}
 ## Notas adicionales
 | Comando | Descripción |
 |--------|--------|
-| XXX | YYYYYYYY |
+| zsteg | Detecta datos ocultos en PNG y BMP |
+| grep | Imprime líneas que coincidan con un patrón |
 
 ## Referencias
+[zsteg](https://github.com/zed-0xff/zsteg)
+[grep(1) - Linux man page](https://linux.die.net/man/1/grep)

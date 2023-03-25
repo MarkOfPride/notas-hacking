@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "retos-Forensics/01-Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "retos-Forensics/01-Glory of the Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "retos-Forensics/01-Glory of the Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md"
+                "file": "retos-Forensics/01-Glory of the Garden.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "fc34a85b67c9b09b",
   "lastOpenFiles": [
-    "primer-parcial/2022/01-runme.py.md",
+    "retos-Forensics/06-m00nwalk.md",
+    "retos-Forensics/05-What Lies Within.md",
+    "retos-Forensics/04-extensions.md",
+    "retos-Forensics/03-shark on wire 1.md",
+    "retos-Forensics/02-So Meta.md",
+    "retos-Forensics/01-Glory of the Garden.md",
     "primer-parcial/2022/09-PW Crack 3.md",
+    "primer-parcial/2022/01-runme.py.md",
     "primer-parcial/2022/08-PW Crack 2.md",
     "primer-parcial/2022/07-PW Crack 1.md",
     "primer-parcial/2022/06-Glitch Cat.md",
@@ -169,13 +175,7 @@
     "primer-parcial/2019/05-strings it.md",
     "primer-parcial/2019/09-plumbing.md",
     "primer-parcial/2019/06-Bases.md",
-    "primer-parcial/2019/07-First Grep.md",
-    "primer-parcial/2019/08-Based.md",
-    "primer-parcial/2019/01-Lets Warm Up.md",
     "primer-parcial/2021",
-    "primer-parcial/2019/02-Warmed Up.md",
-    "primer-parcial/2019/03-2Warm.md",
-    "primer-parcial/2019/04-what's a net cat.md",
     "retos-Forensics",
     "retos-webExploitation",
     "primer-parcial/2019",
