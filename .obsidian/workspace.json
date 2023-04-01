@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45fb12261e46deff",
+            "id": "07dd1911b78a5dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Forensics/01-Glory of the Garden.md",
+                "file": "retos-Forensics/15-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Forensics/01-Glory of the Garden.md",
+                "file": "retos-Forensics/15-MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Forensics/01-Glory of the Garden.md",
+                "file": "retos-Forensics/15-MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Forensics/01-Glory of the Garden.md"
+                "file": "retos-Forensics/15-MacroHard WeakEdge.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45fb12261e46deff",
+  "active": "07dd1911b78a5dbd",
   "lastOpenFiles": [
+    "README.md",
+    "retos-Forensics/11-WebNet0.md",
+    "retos-Forensics/15-MacroHard WeakEdge.md",
+    "retos-Forensics/14-tunn3l v1s10n.md",
+    "retos-Forensics/13-Matryoshka doll.md",
+    "retos-Forensics/12-WebNet1.md",
     "retos-Forensics/Plantilla de retos.md",
     "retos-Forensics/10-shark on wire 2.md",
     "retos-Forensics/09-like1000.md",
     "retos-Forensics/08-c0rrupt.md",
     "retos-Forensics/07-WhitePages.md",
     "retos-Forensics/06-m00nwalk.md",
+    "retos-Forensics/01-Glory of the Garden.md",
     "retos-Forensics/05-What Lies Within.md",
     "picoCTF-2023/Ready Gladiator 0.md",
     "picoCTF-2023/Safe Opener 2.md",
@@ -165,16 +172,9 @@
     "picoCTF-2023",
     "retos-Forensics/04-extensions.md",
     "retos-Forensics/02-So Meta.md",
-    "retos-Forensics/01-Glory of the Garden.md",
     "retos-bandit/Level 1 al 2.md",
     "retos-bandit/Level 0 al 1.md",
     "retos-bandit/Level 0.md",
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/2022/08-PW Crack 2.md",
-    "primer-parcial/2022/07-PW Crack 1.md",
-    "primer-parcial/2022/06-Glitch Cat.md",
-    "primer-parcial/2022/05-fixme2.py.md",
-    "primer-parcial/2022/04-fixme1.py.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "retos-Forensics",
