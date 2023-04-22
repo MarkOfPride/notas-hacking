@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "line:(bandit)",
+      "query": "path:retos-bandit",
       "color": {
         "a": 1,
         "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:retos-webExploitation",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:retos-Forensics",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:primer-parcial",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:picoCTF-2023",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -25,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.9399836862145289,
   "close": true
 }
