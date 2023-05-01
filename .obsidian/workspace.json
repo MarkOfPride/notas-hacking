@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5367aa46768fbaeb",
+            "id": "ce1ce3ae71968b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Cryptography/10-b00tl3gRSA2.md",
+                "file": "retos-Cryptography/11-Mind your Ps and Qs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "938c72eb7e98a1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-Cryptography/12-Pixelated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47706db4d6938ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-Cryptography/13-basic-mod1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4f2d0839efa0ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-Cryptography/14-HideToSee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e633a8a99b186e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-Cryptography/15-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Cryptography/10-b00tl3gRSA2.md",
+                "file": "retos-Cryptography/15-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Cryptography/10-b00tl3gRSA2.md",
+                "file": "retos-Cryptography/15-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Cryptography/10-b00tl3gRSA2.md"
+                "file": "retos-Cryptography/15-ReadMyCert.md"
               }
             }
           }
@@ -146,13 +195,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5367aa46768fbaeb",
+  "active": "2e633a8a99b186e8",
   "lastOpenFiles": [
+    "retos-Cryptography/14-HideToSee.md",
+    "retos-Cryptography/13-basic-mod1.md",
+    "retos-Cryptography/12-Pixelated.md",
+    "retos-Cryptography/11-Mind your Ps and Qs.md",
+    "retos-Cryptography/15-ReadMyCert.md",
+    "retos-Cryptography/Plantilla de retos.md",
+    "retos-Cryptography/10-b00tl3gRSA2.md",
     "retos-Cryptography/09-miniRSA.md",
     "retos-Cryptography/08-rsa-pop-quiz.md",
-    "retos-Cryptography/10-b00tl3gRSA2.md",
     "retos-Cryptography/07-waves over lambda.md",
-    "retos-Cryptography/Plantilla de retos.md",
     "picoCTF-2023/who is it.md",
     "segundo-parcial/2022 Web/01-Includes.md",
     "segundo-parcial/2022 Web/10-SQLiLite.md",
@@ -169,11 +223,6 @@
     "segundo-parcial/2022 Forensic/05-St3g0.md",
     "segundo-parcial/2022 Forensic/04-Redaction gone wrong.md",
     "segundo-parcial/2022 Forensic/03-Packets Primer.md",
-    "segundo-parcial/2022 Forensic/02-Lookey here.md",
-    "segundo-parcial/2022 Forensic/01-Enhance!.md",
-    "segundo-parcial/Plantilla de retos.md",
-    "retos-Forensics/05-What Lies Within.md",
-    "retos-Forensics/04-extensions.md",
     "retos-Cryptography",
     "segundo-parcial/2022 Forensic",
     "segundo-parcial/2021 Forensic",
