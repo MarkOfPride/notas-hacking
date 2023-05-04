@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "44c81d79c48bd117",
+        "id": "944306de02c71343",
         "type": "tabs",
         "children": [
           {
-            "id": "ce1ce3ae71968b17",
+            "id": "bf92aefca0b6d11c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Cryptography/11-Mind your Ps and Qs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938c72eb7e98a1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Cryptography/12-Pixelated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47706db4d6938ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Cryptography/13-basic-mod1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4f2d0839efa0ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Cryptography/14-HideToSee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e633a8a99b186e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-Cryptography/15-ReadMyCert.md",
+                "file": "retos-ReverseEngineering/04-vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b8f7a025bdefa0e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Cryptography/15-ReadMyCert.md",
+                "file": "retos-ReverseEngineering/04-vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Cryptography/15-ReadMyCert.md",
+                "file": "retos-ReverseEngineering/04-vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Cryptography/15-ReadMyCert.md"
+                "file": "retos-ReverseEngineering/04-vault-door-4.md"
               }
             }
           }
@@ -195,13 +154,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2e633a8a99b186e8",
+  "active": "bf92aefca0b6d11c",
   "lastOpenFiles": [
+    "retos-ReverseEngineering/03-vault-door-3.md",
+    "retos-ReverseEngineering/04-vault-door-4.md",
+    "retos-ReverseEngineering/02-vault-door-1.md",
+    "retos-ReverseEngineering/01-vault-door-training.md",
+    "README.md",
+    "retos-ReverseEngineering/Plantilla de retos.md",
+    "retos-Cryptography/15-ReadMyCert.md",
+    "retos-ReverseEngineering",
     "retos-Cryptography/14-HideToSee.md",
     "retos-Cryptography/13-basic-mod1.md",
     "retos-Cryptography/12-Pixelated.md",
     "retos-Cryptography/11-Mind your Ps and Qs.md",
-    "retos-Cryptography/15-ReadMyCert.md",
     "retos-Cryptography/Plantilla de retos.md",
     "retos-Cryptography/10-b00tl3gRSA2.md",
     "retos-Cryptography/09-miniRSA.md",
@@ -217,12 +183,6 @@
     "segundo-parcial/2022 Web/05-Forbidden Paths.md",
     "segundo-parcial/2022 Web/04-Search source.md",
     "segundo-parcial/2022 Web/03-Local Authority.md",
-    "segundo-parcial/2022 Web/02-Inspect HTML.md",
-    "segundo-parcial/2021 Forensic/02-Wireshark doo dooo do doo....md",
-    "segundo-parcial/2021 Forensic/01-information.md",
-    "segundo-parcial/2022 Forensic/05-St3g0.md",
-    "segundo-parcial/2022 Forensic/04-Redaction gone wrong.md",
-    "segundo-parcial/2022 Forensic/03-Packets Primer.md",
     "retos-Cryptography",
     "segundo-parcial/2022 Forensic",
     "segundo-parcial/2021 Forensic",
@@ -231,7 +191,6 @@
     "picoCTF-2023",
     "primer-parcial/2022",
     "primer-parcial/2021",
-    "retos-Forensics",
-    "retos-webExploitation"
+    "retos-Forensics"
   ]
 }
