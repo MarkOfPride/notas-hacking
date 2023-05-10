@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-ReverseEngineering/04-vault-door-4.md",
+                "file": "retos-ReverseEngineering/07-asm4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-ReverseEngineering/04-vault-door-4.md",
+                "file": "retos-ReverseEngineering/07-asm4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-ReverseEngineering/04-vault-door-4.md",
+                "file": "retos-ReverseEngineering/07-asm4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-ReverseEngineering/04-vault-door-4.md"
+                "file": "retos-ReverseEngineering/07-asm4.md"
               }
             }
           }
@@ -156,12 +156,16 @@
   },
   "active": "bf92aefca0b6d11c",
   "lastOpenFiles": [
-    "retos-ReverseEngineering/03-vault-door-3.md",
-    "retos-ReverseEngineering/04-vault-door-4.md",
-    "retos-ReverseEngineering/02-vault-door-1.md",
-    "retos-ReverseEngineering/01-vault-door-training.md",
-    "README.md",
     "retos-ReverseEngineering/Plantilla de retos.md",
+    "retos-ReverseEngineering/07-asm4.md",
+    "retos-ReverseEngineering/06-asm2.md",
+    "retos-ReverseEngineering/05-asm1.md",
+    "retos-ReverseEngineering/07-asm3.md",
+    "retos-ReverseEngineering/04-vault-door-4.md",
+    "retos-ReverseEngineering/01-vault-door-training.md",
+    "retos-ReverseEngineering/02-vault-door-1.md",
+    "retos-ReverseEngineering/03-vault-door-3.md",
+    "README.md",
     "retos-Cryptography/15-ReadMyCert.md",
     "retos-ReverseEngineering",
     "retos-Cryptography/14-HideToSee.md",
@@ -179,10 +183,6 @@
     "segundo-parcial/2022 Web/09-SQL Direct.md",
     "segundo-parcial/2022 Web/08-Secrets.md",
     "segundo-parcial/2022 Web/07-Roboto Sans.md",
-    "segundo-parcial/2022 Web/06-Power Cookie.md",
-    "segundo-parcial/2022 Web/05-Forbidden Paths.md",
-    "segundo-parcial/2022 Web/04-Search source.md",
-    "segundo-parcial/2022 Web/03-Local Authority.md",
     "retos-Cryptography",
     "segundo-parcial/2022 Forensic",
     "segundo-parcial/2021 Forensic",
