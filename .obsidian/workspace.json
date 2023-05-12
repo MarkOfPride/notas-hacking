@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "944306de02c71343",
+        "id": "7d24988f3e3fa93f",
         "type": "tabs",
         "children": [
           {
-            "id": "bf92aefca0b6d11c",
+            "id": "1b29e5d4c9fbdcd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-ReverseEngineering/08-Need For Speed.md",
+                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-ReverseEngineering/08-Need For Speed.md",
+                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-ReverseEngineering/08-Need For Speed.md",
+                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-ReverseEngineering/08-Need For Speed.md"
+                "file": "retos-BinaryExploitation/01-basic-file-exploit.md"
               }
             }
           }
@@ -154,12 +154,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bf92aefca0b6d11c",
+  "active": "1b29e5d4c9fbdcd8",
   "lastOpenFiles": [
+    "retos-BinaryExploitation/02-buffer overflow 0.md",
+    "retos-BinaryExploitation/03-buffer overflow 1.md",
+    "retos-BinaryExploitation/01-basic-file-exploit.md",
+    "retos-BinaryExploitation/Plantilla de retos.md",
+    "retos-ReverseEngineering/08-Need For Speed.md",
+    "retos-BinaryExploitation",
     "retos-ReverseEngineering/09-reverse_cipher.md",
     "retos-ReverseEngineering/11-Safe Opener 2.md",
     "retos-ReverseEngineering/10-GDB Test Drive.md",
-    "retos-ReverseEngineering/08-Need For Speed.md",
     "retos-ReverseEngineering/Plantilla de retos.md",
     "retos-Cryptography/15-ReadMyCert.md",
     "retos-Cryptography/12-Pixelated.md",
@@ -178,11 +183,7 @@
     "retos-ReverseEngineering/07-asm3.md",
     "retos-ReverseEngineering/04-vault-door-4.md",
     "retos-ReverseEngineering/02-vault-door-1.md",
-    "retos-ReverseEngineering/03-vault-door-3.md",
-    "README.md",
     "retos-ReverseEngineering",
-    "retos-Cryptography/14-HideToSee.md",
-    "retos-Cryptography/13-basic-mod1.md",
     "retos-Cryptography",
     "segundo-parcial/2022 Forensic",
     "segundo-parcial/2021 Forensic",
@@ -190,7 +191,6 @@
     "segundo-parcial",
     "picoCTF-2023",
     "primer-parcial/2022",
-    "primer-parcial/2021",
-    "retos-Forensics"
+    "primer-parcial/2021"
   ]
 }
