@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
+                "file": "retos-BinaryExploitation/05-Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
+                "file": "retos-BinaryExploitation/05-Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-BinaryExploitation/01-basic-file-exploit.md",
+                "file": "retos-BinaryExploitation/05-Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-BinaryExploitation/01-basic-file-exploit.md"
+                "file": "retos-BinaryExploitation/05-Stonks.md"
               }
             }
           }
@@ -156,15 +156,26 @@
   },
   "active": "1b29e5d4c9fbdcd8",
   "lastOpenFiles": [
-    "retos-BinaryExploitation/02-buffer overflow 0.md",
-    "retos-BinaryExploitation/03-buffer overflow 1.md",
-    "retos-BinaryExploitation/01-basic-file-exploit.md",
+    "retos-BinaryExploitation/04-flag leak.md",
+    "retos-BinaryExploitation/05-Stonks.md",
     "retos-BinaryExploitation/Plantilla de retos.md",
+    "retos-BinaryExploitation/03-buffer overflow 1.md",
     "retos-ReverseEngineering/08-Need For Speed.md",
-    "retos-BinaryExploitation",
+    "tercer-parcial/ReverseEngineering/02-Bit-O-Asm-1.md",
+    "tercer-parcial/Plantilla de retos.md",
+    "tercer-parcial/ReverseEngineering/01-ASCII FTW.md",
     "retos-ReverseEngineering/09-reverse_cipher.md",
-    "retos-ReverseEngineering/11-Safe Opener 2.md",
     "retos-ReverseEngineering/10-GDB Test Drive.md",
+    "tercer-parcial/Reversing.md",
+    "tercer-parcial/BinaryExploitation",
+    "tercer-parcial/ReverseEngineering",
+    "tercer-parcial/Cryptography",
+    "segundo-parcial/Plantilla de retos.md",
+    "tercer-parcial",
+    "retos-BinaryExploitation/01-basic-file-exploit.md",
+    "retos-BinaryExploitation/02-buffer overflow 0.md",
+    "retos-BinaryExploitation",
+    "retos-ReverseEngineering/11-Safe Opener 2.md",
     "retos-ReverseEngineering/Plantilla de retos.md",
     "retos-Cryptography/15-ReadMyCert.md",
     "retos-Cryptography/12-Pixelated.md",
@@ -176,21 +187,10 @@
     "retos-Forensics/11-WebNet0.md",
     "retos-Forensics/12-WebNet1.md",
     "retos-Forensics/13-Matryoshka doll.md",
-    "retos-ReverseEngineering/01-vault-door-training.md",
-    "retos-ReverseEngineering/07-asm4.md",
-    "retos-ReverseEngineering/06-asm2.md",
-    "retos-ReverseEngineering/05-asm1.md",
-    "retos-ReverseEngineering/07-asm3.md",
-    "retos-ReverseEngineering/04-vault-door-4.md",
-    "retos-ReverseEngineering/02-vault-door-1.md",
     "retos-ReverseEngineering",
     "retos-Cryptography",
     "segundo-parcial/2022 Forensic",
     "segundo-parcial/2021 Forensic",
-    "segundo-parcial/2022 Web",
-    "segundo-parcial",
-    "picoCTF-2023",
-    "primer-parcial/2022",
-    "primer-parcial/2021"
+    "segundo-parcial/2022 Web"
   ]
 }

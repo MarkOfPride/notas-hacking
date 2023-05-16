@@ -1,0 +1,4 @@
+.callout[data-callout = "solution"] {
+	--callout-color: 11, 222, 73;
+	--callout-icon: lucide-clipboard-check;
+}
