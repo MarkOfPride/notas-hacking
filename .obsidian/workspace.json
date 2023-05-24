@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-BinaryExploitation/05-Stonks.md",
+                "file": "tercer-parcial/BinaryExploitation/04-two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-BinaryExploitation/05-Stonks.md",
+                "file": "tercer-parcial/BinaryExploitation/04-two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-BinaryExploitation/05-Stonks.md",
+                "file": "tercer-parcial/BinaryExploitation/04-two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-BinaryExploitation/05-Stonks.md"
+                "file": "tercer-parcial/BinaryExploitation/04-two-sum.md"
               }
             }
           }
@@ -156,41 +156,41 @@
   },
   "active": "1b29e5d4c9fbdcd8",
   "lastOpenFiles": [
-    "retos-BinaryExploitation/04-flag leak.md",
-    "retos-BinaryExploitation/05-Stonks.md",
-    "retos-BinaryExploitation/Plantilla de retos.md",
-    "retos-BinaryExploitation/03-buffer overflow 1.md",
-    "retos-ReverseEngineering/08-Need For Speed.md",
+    "tercer-parcial/BinaryExploitation/03-clutter-overflow.md",
+    "tercer-parcial/BinaryExploitation/02-Local Target.md",
+    "tercer-parcial/BinaryExploitation/01-Picker IV.md",
+    "tercer-parcial/ReverseEngineering/07-GDB baby step 2.md",
+    "tercer-parcial/ReverseEngineering/06-GDB baby step 1.md",
+    "tercer-parcial/ReverseEngineering/05-Bit-O-Asm-4.md",
+    "tercer-parcial/ReverseEngineering/04-Bit-O-Asm-3.md",
+    "tercer-parcial/ReverseEngineering/03-Bit-O-Asm-2.md",
     "tercer-parcial/ReverseEngineering/02-Bit-O-Asm-1.md",
-    "tercer-parcial/Plantilla de retos.md",
     "tercer-parcial/ReverseEngineering/01-ASCII FTW.md",
+    "tercer-parcial/Cryptography/05-SRA.md",
+    "tercer-parcial/Cryptography/04-Vigenere.md",
+    "tercer-parcial/Cryptography/03-transposition-trial.md",
+    "tercer-parcial/Cryptography/02-Mr-Worldwide.md",
+    "tercer-parcial/Cryptography/01-Flags.md",
+    "retos-ReverseEngineering/08-Need For Speed.md",
     "retos-ReverseEngineering/09-reverse_cipher.md",
-    "retos-ReverseEngineering/10-GDB Test Drive.md",
-    "tercer-parcial/Reversing.md",
+    "retos-ReverseEngineering/06-asm2.md",
+    "retos-ReverseEngineering/07-asm4.md",
+    "tercer-parcial/Plantilla de retos.md",
+    "retos-BinaryExploitation/03-buffer overflow 1.md",
+    "tercer-parcial/BinaryExploitation/04-two-sum.md",
+    "retos-BinaryExploitation/02-buffer overflow 0.md",
+    "retos-BinaryExploitation/01-basic-file-exploit.md",
+    "2023-05-21.md",
+    "retos-BinaryExploitation/04-flag leak.md",
     "tercer-parcial/BinaryExploitation",
     "tercer-parcial/ReverseEngineering",
     "tercer-parcial/Cryptography",
-    "segundo-parcial/Plantilla de retos.md",
     "tercer-parcial",
-    "retos-BinaryExploitation/01-basic-file-exploit.md",
-    "retos-BinaryExploitation/02-buffer overflow 0.md",
+    "tercer-parcial/BinaryExploitation",
+    "tercer-parcial/ReverseEngineering",
+    "tercer-parcial/Cryptography",
+    "tercer-parcial",
     "retos-BinaryExploitation",
-    "retos-ReverseEngineering/11-Safe Opener 2.md",
-    "retos-ReverseEngineering/Plantilla de retos.md",
-    "retos-Cryptography/15-ReadMyCert.md",
-    "retos-Cryptography/12-Pixelated.md",
-    "retos-Forensics/14-tunn3l v1s10n.md",
-    "retos-Forensics/15-MacroHard WeakEdge.md",
-    "retos-Forensics/07-WhitePages.md",
-    "retos-Forensics/09-like1000.md",
-    "retos-Forensics/10-shark on wire 2.md",
-    "retos-Forensics/11-WebNet0.md",
-    "retos-Forensics/12-WebNet1.md",
-    "retos-Forensics/13-Matryoshka doll.md",
-    "retos-ReverseEngineering",
-    "retos-Cryptography",
-    "segundo-parcial/2022 Forensic",
-    "segundo-parcial/2021 Forensic",
-    "segundo-parcial/2022 Web"
+    "retos-ReverseEngineering"
   ]
 }
